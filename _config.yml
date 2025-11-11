@@ -22,7 +22,7 @@ title: Titulo Asombristico
 email: psainzdelamazar01@educantabria.es
 description: >- # this means to ignore newlines until "baseurl:"
   Este es un blog asombristico creado con Jekyll para los apasionados de las piedras.
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/myblog2" # the subpath of your site, e.g. /blog
 url: "https://pablosdlm.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: piedra
 github_username:  pablosdlm
